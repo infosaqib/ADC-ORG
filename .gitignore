@@ -1,3 +1,4 @@
 *.xml
 *robots.txt
 .htaccess
+config.php
