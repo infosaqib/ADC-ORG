@@ -1,0 +1,14 @@
+images/
+scripts/
+.cursor/
+*.jpeg
+*.jpg
+*.png
+*.gif
+*.svg
+*.webp
+*.txt
+*.log
+*.ps1
+*.mdc
+*.zip
