@@ -25,7 +25,7 @@
             ">
     <meta property="og:url" content="https://services.armydogcenter.org.pk/badin-II.php" />
     <meta property="og:type" content="website" />
-    <meta property="og:image" content="https://armydogcenter.org.pk/images/services/sindh/badin.jpeg" />
+    <meta property="og:image" content="https://armydogcenter.org.pk/images/services/sindh/badin-II.jpeg" />
     <meta property="og:site_name" content="Army Dog Center Pakistan" />
 
     <!-- Twitter Card -->
@@ -35,7 +35,7 @@
              چوری، ڈکیتی، قتل اور اغوا جیسے جرائم کے خلاف فوری مدد کے لیے ہمہ وقت دستیاب۔ ہمارے ماہر کتے جرائم کے نشانات ڈھونڈنے اور اہم شواہد فراہم کرنے میں مددگار ثابت ہوتے ہیں۔ ہم 24/7 ہر جگہ خدمات فراہم کرتے ہیں تاکہ آپ کو مکمل تحفظ اور اطمینان حاصل ہو۔
              
             ">
-    <meta name="twitter:image" content="https://armydogcenter.org.pk/images/services/sindh/badin.jpeg" />
+    <meta name="twitter:image" content="https://armydogcenter.org.pk/images/services/sindh/badin-II.jpeg" />
 
     <!-- Favicon -->
     <link rel="icon" href="https://armydogcenter.org.pk/images/logo.webp" type="image/webp" />
@@ -136,7 +136,7 @@
                 <div class="flex justify-center">
                     <div
                         class="h-full w-88 relative group overflow-hidden rounded-xl shadow-xl transform transition-transform duration-300 hover:scale-105">
-                        <img src="https://armydogcenter.org.pk/images/services/sindh/badin.jpeg" alt="German Shepherd Dog"
+                        <img src="https://armydogcenter.org.pk/images/services/sindh/badin-II.jpeg" alt="German Shepherd Dog"
                             class="w-full h-full object-cover" />
                         <div
                             class="absolute inset-0 bg-gradient-to-t from-teal-500 to-transparent opacity-0 group-hover:opacity-70 transition-opacity duration-300">
